@@ -50,6 +50,7 @@ sudo dnf install cmake extra-cmake-modules kf6-kconfig-devel \
     kf6-kcoreaddons-devel kf6-kwindowsystem-devel kwin-devel \
     qt6-qtbase-devel kf6-kconfigwidgets-devel kf6-kcmutils-devel \
     kf6-ksvg-devel libplasma-devel libdrm-devel
+```
 
 On Ubuntu
 
